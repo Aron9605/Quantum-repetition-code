@@ -1,11 +1,14 @@
 # Quantum-repetition-code
 
-This project contains the reproduction of essential results of the 'Break-even point of the quantum repetition code' study. [ref.:arxiv]
+This project contains the reproduction of essential results of the '*Break-even point of the quantum repetition code*' study. [ref.:arxiv]
+
 The study has been submitted to Physical Review B; the corresponding authors are **Aron Rozgonyi**[1,2] and **Gabor Szechenyi**[1,2]. 
 
-Affiliation:
-[1] Institute of Physics, Eotvos Lorand University, Budapest, Hungary
-[2] Department for Quantum Optics and Quantum Information, Wigner Research Centre for Physics, Budapest, Hungary
+*Affiliation*:
+
+[1] Institute of Physics, [Eotvos Lorand University](https://www.elte.hu/en/), Budapest, Hungary
+
+[2] Department for Quantum Optics and Quantum Information, [Wigner Research Centre for Physics](https://wigner.hu/en/news), Budapest, Hungary
 
 ## Abstract
 
