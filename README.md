@@ -13,9 +13,7 @@ The study has been submitted to a scientific journal; the corresponding authors 
 
 ## Abstract
 
-Enhancing the lifetime of qubits with quantum code-based memories on different quantum hardware is a significant step towards fault-tolerant quantum 
-computing. We theoretically show that the break-even point, i.e., preserving arbitrary quantum information  longer than the lifetime of a single idle 
-qubit, can be beaten even with the quantum phase-flip repetition code in a dephasing-time-limited system. Applying circuit-based analytical calculation, we 
-determine the efficiency of the phase-flip code as a quantum memory in the presence of relaxation, dephasing, and faulty quantum gates. Considering current 
-platforms for quantum computing, we identify the gate error probabilities and optimal repetition number of quantum error correction cycles to reach the 
-break-even point. 
+Achieving fault-tolerant quantum computing is a fundamental challenge in the field of quantum information science. 
+In this study, we explore the use of quantum code-based memories to enhance the lifetime of qubits and exceed the break-even point, which is critical for the implementation of fault-tolerant quantum computing. Specifically, we investigate the quantum phase-flip repetition code as a quantum memory and theoretically demonstrate that it can preserve arbitrary quantum information longer than the lifetime of a single idle qubit in a dephasing-time-limited system. 
+Our circuit-based analytical calculations show the efficiency of the phase-flip code as a quantum memory in the presence of relaxation, dephasing, and faulty quantum gates. Moreover, we identify the optimal repetition number of quantum error correction cycles required to reach the break-even point by considering the gate error probabilities of current platforms for quantum computing. 
+Our findings are significant as they pave the way towards quantum memory and fault-tolerant quantum computing, which are crucial for the development of advanced quantum technologies.
