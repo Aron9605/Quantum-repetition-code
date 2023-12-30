@@ -1,9 +1,9 @@
 # Quantum-repetition-code
 
 This project contains the reproduction of essential results of the '*Break-even point of the quantum repetition code*' study. [ref. [	arXiv:2303.17810](https://doi.org/10.48550/arXiv.2303.17810
-)]
+), [2023 New J. Phys. 25 103004](https://doi.org/10.1088/1367-2630/acfba5)]
 
-The study has been submitted to a scientific journal; the corresponding authors are **Aron Rozgonyi**[1,2] and **Gabor Szechenyi**[1,2]. 
+The study has been published in IOPScience New Journal of Physics; the corresponding authors are **Aron Rozgonyi**[1,2] and **Gabor Szechenyi**[1,2]. 
 
 *Affiliation*:
 
